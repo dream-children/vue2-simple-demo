@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "description": "<%=description%>",
-  "autor": "<%=author%>",
+  "author": "<%=author%>",
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^2.6.14",

@@ -2,8 +2,7 @@
   {
     "type": "confirm",
     "name": "private",
-    "message": "ths resgistery is private?",
-    "default": false
+    "message": "ths resgistery is private?"
   },
   {
     "type": "input",
@@ -15,7 +14,7 @@
     "type": "input",
     "name": "description",
     "message": "description?",
-    "default": ""
+    "default": "this is a vue project"
   },
   {
     "type": "input",
