@@ -1,0 +1,32 @@
+[
+  {
+    "type": "confirm",
+    "name": "private",
+    "message": "ths resgistery is private?",
+    "default": false
+  },
+  {
+    "type": "input",
+    "name": "author",
+    "message": "author?",
+    "default": ""
+  },
+  {
+    "type": "input",
+    "name": "description",
+    "message": "description?",
+    "default": ""
+  },
+  {
+    "type": "input",
+    "name": "license",
+    "message": "license?",
+    "default": "MIT"
+  },
+  {
+    "type": "input",
+    "name": "name",
+    "message": "project name?",
+    "default": "vue2-simple-demo"
+  }
+]
